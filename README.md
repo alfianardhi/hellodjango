@@ -1,2 +1,2 @@
 # hellodjango
--- test this feature app 01
+-- test this create boards feature
