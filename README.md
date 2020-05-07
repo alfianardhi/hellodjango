@@ -1,1 +1,2 @@
 # hellodjango
+-- test this feature
